@@ -1,0 +1,7 @@
+a=11
+b =44
+b += 44
+# c = a + b
+# print(c)
+T = type(b)
+print(T)
